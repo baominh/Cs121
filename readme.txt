@@ -1,4 +1,6 @@
-Utilities.java: Write a method that reads in a text file and returns a list of the tokens in that file. Write a method to print out frequency results.
+Utilities.java: Write a method that reads in a text file and returns a list of the tokens in that file. 
+
+Frequency.java : Write a method to print out frequency results.
 
 WordFrequencyCounter.java : Count the total number of words and their frequencies in a token list. 
 
